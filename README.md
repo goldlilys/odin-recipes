@@ -1,1 +1,3 @@
 # odin-recipes
+Starting an Odin Recipe Project
+No idea what this is about yet ...

@@ -1,0 +1,37 @@
+.container {
+	max-width: 700px;
+	margin: auto;
+}
+.container h1, .container p {
+	text-align: center;
+}
+.container img {
+	display: block;
+	margin: 1em auto;
+	padding: 1em;
+}
+.container a.return {
+	text-align: center;
+	display: block;
+	padding: 2em 0;
+}
+.container a:hover {
+	color: #FFBD33;
+}	
+.container h2 {
+	margin: 2em 0 0;
+}
+.container ul, .container ol {
+	margin: 1em 0;
+}
+.container li {
+	line-height: 2;
+}
+#recipes {
+	text-align: center;
+	margin: auto;
+	list-style-type: none;
+}
+#recipes ul, #recipes li {
+	text-decoration: none;
+}
