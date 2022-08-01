@@ -1,3 +1,11 @@
+html,body {
+	background: -webkit-linear-gradient( to left top, #f5ebe0, #e3d5ca);
+	background: -moz-linear-gradient( to left top, #f5ebe0, #e3d5ca);
+	background: -ms-linear-gradient( to left top, #f5ebe0, #e3d5ca);
+	background: -o-linear-gradient( to left top, #f5ebe0, #e3d5ca);
+	background-image: linear-gradient(to left top, #f5ebe0, #e3d5ca);
+	background-attachment: fixed; 
+}
 .container {
 	max-width: 700px;
 	margin: auto;
@@ -8,7 +16,7 @@
 .container img {
 	display: block;
 	margin: 1em auto;
-	padding: 1em;
+	padding: 1em 0;
 }
 .container a.return {
 	text-align: center;
